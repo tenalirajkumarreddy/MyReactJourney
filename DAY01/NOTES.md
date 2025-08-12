@@ -105,3 +105,4 @@ With React — you tell an **interior designer** what you want, and they figure 
 * **Analogy**: Manual furniture moving vs. hiring an interior designer.
 * **Core idea**: React lets you describe *what* the UI should look like, not *how* to update it step-by-step.
 
+## SOURCE: https://ui.dev/c/react/why-react
