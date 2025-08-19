@@ -1,1 +1,1 @@
-Day 02 Notes
+Day 02 Notez
