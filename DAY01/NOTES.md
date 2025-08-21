@@ -6,7 +6,7 @@
 * **CSS**: For styling, but not for interactivity.
 * **JavaScript**: Used to add behavior — clicking a button, showing/hiding elements, validating forms, etc.
 
----
+-----
 
 ### The problem: Adding complexity
 
