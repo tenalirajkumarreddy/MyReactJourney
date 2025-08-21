@@ -97,7 +97,7 @@ With React — you tell an **interior designer** what you want, and they figure 
 | Hard to scale                      | Easy to reuse components           |
 | Slow DOM updates                   | Fast Virtual DOM diffing           |
 
----
+-----
 
 ## 4️⃣ Why this sticks in memory
 
